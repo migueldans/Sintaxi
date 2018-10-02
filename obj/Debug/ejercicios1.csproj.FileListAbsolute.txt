@@ -1,0 +1,7 @@
+C:\Users\Dans\source\repos\ejercicios1\ejercicios1\obj\Debug\ejercicios1.csprojAssemblyReference.cache
+C:\Users\Dans\source\repos\ejercicios1\ejercicios1\obj\Debug\ejercicios1.csproj.CoreCompileInputs.cache
+C:\Users\Dans\source\repos\ejercicios1\ejercicios1\bin\Debug\ejercicios1.exe.config
+C:\Users\Dans\source\repos\ejercicios1\ejercicios1\bin\Debug\ejercicios1.exe
+C:\Users\Dans\source\repos\ejercicios1\ejercicios1\bin\Debug\ejercicios1.pdb
+C:\Users\Dans\source\repos\ejercicios1\ejercicios1\obj\Debug\ejercicios1.exe
+C:\Users\Dans\source\repos\ejercicios1\ejercicios1\obj\Debug\ejercicios1.pdb
